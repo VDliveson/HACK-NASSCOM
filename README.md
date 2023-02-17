@@ -1,4 +1,4 @@
-#Nasscom Telangana Hackathon
+# Nasscom Telangana Hackathon
 
 Before running the script, make sure you make a folder structure as follows:
 
