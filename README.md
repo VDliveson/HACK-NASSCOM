@@ -2,13 +2,15 @@
 
 Before running the script, make sure you make a folder structure as follows:
 
-```dataset
+```
+dataset
     └───weather data telangana
         ├───2018
         ├───2019
         ├───2020
         ├───2021
         └───2022
+        
 ```
 
 Stages and steps followed are -
