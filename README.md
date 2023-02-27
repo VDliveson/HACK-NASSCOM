@@ -19,3 +19,4 @@ Stages and steps followed are -
  > Grouping the datasets internally by district and date
 
 
+> ### Note: Date format is YYYY-MM-DD
