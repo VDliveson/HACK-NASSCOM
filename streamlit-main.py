@@ -7,9 +7,7 @@ st.title('Heatwave prediction for Telangana')
 
 @st.cache_data
 def load_data():
-    current = os.path.abspath("__file__")
-    filepath = os.path.abspath(os.path.join(current, "..", "..", "complete_merged.csv"))
-    data = pd.read_csv(filepath,index_col= 0)
+    data = pd.read_csv(r"complete_merged.csv",index_col= 0)
     data['date'] = pd.to_datetime(data['date'])
     return data
 
